@@ -1,24 +1,7 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a minimal chat app built with Rails, Hotwire, and Bootstrap.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+<picture>
+  <img src="https://github.com/pmvenegas/turbochat/raw/main/screenshot.png?raw=true" width="788px" />
+</picture>
