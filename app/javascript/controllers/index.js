@@ -4,3 +4,5 @@
 
 import { application } from "./application"
 
+import MessageController from "./message_controller"
+application.register("message", MessageController)
