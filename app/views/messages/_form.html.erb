@@ -1,6 +1,6 @@
 <%= form_with(model: message, id: dom_id(message)) do |form| %>
   <div class="input-group mt-2">
-    <%= form.text_field :body, class: "form-control form-control-sm" %>
+    <%= form.text_field :body, class: "form-control form-control-sm", autofocus: true %>
     <%= form.submit "Send", class: "btn btn-outline-primary" %>
   </div>
 
